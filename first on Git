@@ -1,2 +1,2 @@
-#include <iostream>								//*****code by Fortochkin / stalkerybr@gmail.com
-using namespace std;int main(void){float a,b;cout<<"Vvedite income: ";cin>>a;b=(a/100)*13;cout<<endl<<"you TAX: = "<<b;return 0;}
+#include <iostream>								//code by Fortochkin / stalkerybr@gmail.com
+using namespace std;int main(void){float a,b;cout<<"Enter income: ";cin>>a;b=(a/100)*13;cout<<endl<<"you TAX: = "<<b;return 0;}
