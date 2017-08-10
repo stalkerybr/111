@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream> //code by Fortochkin / stalkerybr@gmail.com
 #include <iomanip>
 #include <cstdlib>
 #include <ctime>
